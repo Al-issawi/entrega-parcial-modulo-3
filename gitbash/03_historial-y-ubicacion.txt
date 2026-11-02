@@ -1,0 +1,12 @@
+Command: git log --stat --oneline
+Main repo:
+ea45cb8 Create initial project structure
+ README.md                                          | 13 ++++++
+ app/index.html                                     |  7 ++++
+ biblioteca-java/pom.xml                            |  5 +++
+ .../main/java/es/edu/biblioteca/Biblioteca.java    | 49 ++++++++++++++++++++++
+ .../src/main/java/es/edu/biblioteca/Libro.java     | 20 +++++++++
+ enlace-publicacion.txt                             |  1 +
+ 6 files changed, 95 insertions(+)
+Other Git repo location:
+/mnt/c/Users/mdali/Documents/Codex/2026-11-02/entrega-parcial-modulo-3-labs-no/outputs/otro-repo-biblioteca

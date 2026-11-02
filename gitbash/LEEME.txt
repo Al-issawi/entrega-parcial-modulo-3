@@ -1,0 +1,1 @@
+Text exports of Git Bash commands run on the local repositories.

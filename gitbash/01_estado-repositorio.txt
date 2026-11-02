@@ -1,0 +1,6 @@
+Command: git status --short --branch
+Main repo:
+## master
+?? gitbash/
+Companion repo:
+## master

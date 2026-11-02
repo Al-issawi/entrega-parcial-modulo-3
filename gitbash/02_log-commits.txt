@@ -1,0 +1,5 @@
+Command: git log --oneline --decorate
+Main repo:
+ea45cb8 (HEAD -> master) Create initial project structure
+Companion repo:
+fd5bec8 (HEAD -> master) Create initial project structure
