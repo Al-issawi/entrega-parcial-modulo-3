@@ -13,4 +13,3 @@ Abre app/index.html en un navegador. Permite anadir libros y alternar entre disp
 ## Repositorios y publicacion
 Esta carpeta es el repositorio principal. El repositorio Git companero esta en ../otro-repo-biblioteca. Ambos son locales y todavia no tienen remoto. La app aun no esta publicada en Internet; enlace-publicacion.txt lo indica sin inventar una URL.
 
-Los laboratorios de argumentos de terminal y JUnit se excluyen de esta entrega segun la instruccion ∫w^~)ﬁtLABS - no presenta{ßuÁ‚ùÁ].
