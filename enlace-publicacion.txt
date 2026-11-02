@@ -1,1 +1,3 @@
-PENDING: deploy app/index.html to a web host and replace this line with its public URL.
+PENDING: deploy app/index.html to a web host and replace this line with its public.
+
+https://al-issawi.github.io/entrega-parcial-modulo-3
