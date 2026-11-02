@@ -1,5 +1,18 @@
 Comando: git log --stat --oneline
 Repositorio principal:
-
+f1653b9 Document Pages publishing and refresh logs
+ README.md                            |  4 +++
+ gitbash/01_estado-repositorio.txt    |  6 ++--
+ gitbash/02_log-commits.txt           |  6 ++--
+ gitbash/03_historial-y-ubicacion.txt | 55 ++----------------------------------
+ 4 files changed, 11 insertions(+), 60 deletions(-)
+62a3d84 Prepare app for GitHub Pages
+ docs/index.html | 7 +++++++
+ 1 file changed, 7 insertions(+)
+123640a Refresh Git Bash history exports
+ gitbash/01_estado-repositorio.txt    |  8 +++---
+ gitbash/02_log-commits.txt           | 10 ++++---
+ gitbash/03_historial-y-ubicacion.txt | 52 +++++++++++++++++++++++++++++++++---
+ 3 files changed, 58 insertions(+), 12 deletions(-)
 Ubicacion del otro repositorio Git:
 C:\Users\mdali\OneDrive\Escritorio\ironhack\BackEnd\java\entrega-parcial-modulo-3-final\otro-repo-biblioteca

@@ -1,5 +1,9 @@
 Comando: git log --oneline --decorate
 Repositorio principal:
-
+f1653b9 (HEAD -> master) Document Pages publishing and refresh logs
+62a3d84 Prepare app for GitHub Pages
+123640a (origin/master, origin/HEAD) Refresh Git Bash history exports
+a099979 Complete library, Javadoc and web app
+b47105a Add Git Bash log records
 Repositorio companero:
-
+fd5bec8 (HEAD -> master) Create initial project structure

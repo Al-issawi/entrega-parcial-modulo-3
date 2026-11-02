@@ -1,6 +1,6 @@
 Comando: git status --short --branch
 Repositorio principal:
-## No commits yet on master
-?? outputs/
+## master...origin/master [ahead 2]
+ M gitbash/01_estado-repositorio.txt
 Repositorio companero:
-
+## master
