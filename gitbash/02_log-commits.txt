@@ -1,5 +1,7 @@
-Command: git log --oneline --decorate
-Main repo:
-ea45cb8 (HEAD -> master) Create initial project structure
-Companion repo:
+Comando: git log --oneline --decorate
+Repositorio principal:
+a099979 (HEAD -> master) Complete library, Javadoc and web app
+b47105a Add Git Bash log records
+ea45cb8 Create initial project structure
+Repositorio companero:
 fd5bec8 (HEAD -> master) Create initial project structure

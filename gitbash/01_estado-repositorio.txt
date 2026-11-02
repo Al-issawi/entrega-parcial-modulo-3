@@ -1,6 +1,6 @@
-Command: git status --short --branch
-Main repo:
+Comando: git status --short --branch
+Repositorio principal:
 ## master
-?? gitbash/
-Companion repo:
+ M gitbash/01_estado-repositorio.txt
+Repositorio companero:
 ## master
