@@ -1,13 +1,16 @@
 # Entrega parcial - Modulo 3
 
-Includes the Java library, Javadoc, a small web catalog app, and three Git Bash records.
+Este repositorio incluye la biblioteca Java, su Javadoc, una aplicacion web de catalogo y tres registros exportados de Git Bash.
 
-## Build
-Requires JDK 17+ and Maven. In biblioteca-java run:
+## Biblioteca Java
+Requiere JDK 17+ y Maven. Desde la carpeta biblioteca-java:
     mvn package javadoc:javadoc
-Generated Javadoc: biblioteca-java/target/site/apidocs/index.html.
+El Javadoc incluido esta en biblioteca-java/docs/apidocs/index.html.
 
-## Repositories
-This directory is the main local repository. The companion Git repo is ../otro-repo-biblioteca. Neither has a remote configured. The web app is not deployed; enlace-publicacion.txt records this honestly instead of inventing a public URL.
+## Aplicacion web
+Abre app/index.html en un navegador. Permite anadir libros y alternar entre disponible y prestado. El navegador conserva los datos en almacenamiento local.
 
-The command-line arguments and JUnit labs are excluded, as the instructions say "LABS - no presentar".
+## Repositorios y publicacion
+Esta carpeta es el repositorio principal. El repositorio Git companero esta en ../otro-repo-biblioteca. Ambos son locales y todavia no tienen remoto. La app aun no esta publicada en Internet; enlace-publicacion.txt lo indica sin inventar una URL.
+
+Los laboratorios de argumentos de terminal y JUnit se excluyen de esta entrega segun la instruccion ∫w^~)ﬁtLABS - no presenta{ßuÁ‚ùÁ].
