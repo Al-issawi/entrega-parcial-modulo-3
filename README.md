@@ -14,7 +14,8 @@ El Javadoc incluido esta en biblioteca-java/docs/apidocs/index.html.
 
 Abre app/index.html en un navegador. Permite anadir libros y alternar entre disponible y prestado. El navegador conserva los datos en almacenamiento local.
 
-## Repositorios
+## Repositorios y publicacion
+La app aun no esta publicada en Internet; enlace-publicacion.txt indica la URL.
 
 Esta carpeta es el repositorio principal. El repositorio Git companero esta en ../otro-repo-biblioteca. El historial de Git Bash registra su ubicacion local.
 
