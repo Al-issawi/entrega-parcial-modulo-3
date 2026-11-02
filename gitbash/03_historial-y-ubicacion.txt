@@ -1,56 +1,5 @@
 Comando: git log --stat --oneline
 Repositorio principal:
-a099979 Complete library, Javadoc and web app
- .gitignore                                         |    1 +
- README.md                                          |   17 +-
- biblioteca-java/docs/apidocs/allclasses-index.html |   73 ++
- .../docs/apidocs/allpackages-index.html            |   63 +
- biblioteca-java/docs/apidocs/copy.svg              |   33 +
- biblioteca-java/docs/apidocs/element-list          |    1 +
- .../docs/apidocs/es/edu/biblioteca/Biblioteca.html |  273 +++++
- .../docs/apidocs/es/edu/biblioteca/Libro.html      |  288 +++++
- .../apidocs/es/edu/biblioteca/package-summary.html |   98 ++
- .../apidocs/es/edu/biblioteca/package-tree.html    |   80 ++
- biblioteca-java/docs/apidocs/help-doc.html         |  177 +++
- biblioteca-java/docs/apidocs/index-all.html        |  150 +++
- biblioteca-java/docs/apidocs/index.html            |   26 +
- biblioteca-java/docs/apidocs/legal/COPYRIGHT       |    1 +
- biblioteca-java/docs/apidocs/legal/LICENSE         |    1 +
- biblioteca-java/docs/apidocs/legal/jquery.md       |   26 +
- biblioteca-java/docs/apidocs/legal/jqueryUI.md     |   49 +
- biblioteca-java/docs/apidocs/link.svg              |   31 +
- .../docs/apidocs/member-search-index.js            |    1 +
- .../docs/apidocs/module-search-index.js            |    1 +
- biblioteca-java/docs/apidocs/overview-tree.html    |   84 ++
- .../docs/apidocs/package-search-index.js           |    1 +
- biblioteca-java/docs/apidocs/resources/glass.png   |  Bin 0 -> 499 bytes
- biblioteca-java/docs/apidocs/resources/x.png       |  Bin 0 -> 394 bytes
- .../docs/apidocs/script-dir/jquery-3.7.1.min.js    |    2 +
- .../docs/apidocs/script-dir/jquery-ui.min.css      |    6 +
- .../docs/apidocs/script-dir/jquery-ui.min.js       |    6 +
- biblioteca-java/docs/apidocs/script.js             |  253 ++++
- biblioteca-java/docs/apidocs/search-page.js        |  284 +++++
- biblioteca-java/docs/apidocs/search.html           |   71 ++
- biblioteca-java/docs/apidocs/search.js             |  458 +++++++
- biblioteca-java/docs/apidocs/stylesheet.css        | 1272 ++++++++++++++++++++
- biblioteca-java/docs/apidocs/tag-search-index.js   |    1 +
- biblioteca-java/docs/apidocs/type-search-index.js  |    1 +
- .../main/java/es/edu/biblioteca/Biblioteca.java    |   59 +-
- .../src/main/java/es/edu/biblioteca/Libro.java     |   26 +-
- 36 files changed, 3873 insertions(+), 41 deletions(-)
-b47105a Add Git Bash log records
- gitbash/01_estado-repositorio.txt    |  6 ++++++
- gitbash/02_log-commits.txt           |  5 +++++
- gitbash/03_historial-y-ubicacion.txt | 12 ++++++++++++
- gitbash/LEEME.txt                    |  1 +
- 4 files changed, 24 insertions(+)
-ea45cb8 Create initial project structure
- README.md                                          | 13 ++++++
- app/index.html                                     |  7 ++++
- biblioteca-java/pom.xml                            |  5 +++
- .../main/java/es/edu/biblioteca/Biblioteca.java    | 49 ++++++++++++++++++++++
- .../src/main/java/es/edu/biblioteca/Libro.java     | 20 +++++++++
- enlace-publicacion.txt                             |  1 +
- 6 files changed, 95 insertions(+)
+
 Ubicacion del otro repositorio Git:
-C:\Users\mdali\Documents\Codex\2026-11-02\entrega-parcial-modulo-3-labs-no\outputs\otro-repo-biblioteca
+C:\Users\mdali\OneDrive\Escritorio\ironhack\BackEnd\java\entrega-parcial-modulo-3-final\otro-repo-biblioteca
